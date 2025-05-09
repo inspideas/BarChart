@@ -1,31 +1,31 @@
-Name,Stats,Base,Min,Max
-Pikachu,HP,35,180,274
-Pikachu,Attack,55,103,229
-Pikachu,Defence,40,76,196
-Pikachu,Sp. Atk,50,94,218
-Pikachu,Sp. Def,50,94,218
-Pikachu,Speed,90,166,306
-Psyduck,HP,50,210,304
-Psyduck,Attack,52,98,223
-Psyduck,Defence,48,90,214
-Psyduck,Sp. Atk,65,121,251
-Psyduck,Sp. Def,50,94,218
-Psyduck,Speed,55,103,229
-Mewtwo,HP,106,322,416
-Mewtwo,Attack,110,202,350
-Mewtwo,Defence,90,166,306
-Mewtwo,Sp. Atk,154,281,447
-Mewtwo,Sp. Def,90,166,306
-Mewtwo,Speed,130,238,394
-Charizard,HP,78,266,360
-Charizard,Attack,84,155,293
-Charizard,Defence,78,144,280
-Charizard,Sp. Atk,109,200,348
-Charizard,Sp. Def,85,157,295
-Charizard,Speed,100,184,328
-Lucario,HP,70,250,344
-Lucario,Attack,110,202,350
-Lucario,Defence,70,130,262
-Lucario,Sp. Atk,115,211,361
-Lucario,Sp. Def,70,130,262
-Lucario,Speed,90,166,306
+Name,Stats,Base,Min,Max,ColorRef
+Pikachu,HP,35,180,274,1
+Pikachu,Attack,55,103,229,1
+Pikachu,Defence,40,76,196,1
+Pikachu,Sp. Atk,50,94,218,1
+Pikachu,Sp. Def,50,94,218,1
+Pikachu,Speed,90,166,306,1
+Psyduck,HP,50,210,304,2
+Psyduck,Attack,52,98,223,2
+Psyduck,Defence,48,90,214,2
+Psyduck,Sp. Atk,65,121,251,2
+Psyduck,Sp. Def,50,94,218,2
+Psyduck,Speed,55,103,229,2
+Mewtwo,HP,106,322,416,3
+Mewtwo,Attack,110,202,350,3
+Mewtwo,Defence,90,166,306,3
+Mewtwo,Sp. Atk,154,281,447,3
+Mewtwo,Sp. Def,90,166,306,3
+Mewtwo,Speed,130,238,394,3
+Charizard,HP,78,266,360,4
+Charizard,Attack,84,155,293,4
+Charizard,Defence,78,144,280,4
+Charizard,Sp. Atk,109,200,348,4
+Charizard,Sp. Def,85,157,295,4
+Charizard,Speed,100,184,328,4
+Lucario,HP,70,250,344,5
+Lucario,Attack,110,202,350,5
+Lucario,Defence,70,130,262,5
+Lucario,Sp. Atk,115,211,361,5
+Lucario,Sp. Def,70,130,262,5
+Lucario,Speed,90,166,306,5
